@@ -15,8 +15,13 @@ def printJohn():
 # Sheril wrote the function below
 def printSheril():
     print("Hello, my name is Sheril George")
+
+# Shreya wrote the function below
+def printShreya():
+    print("Hello, my name is Shreya Aravindan")
     
 printGeethika()
 printJustin()
 printJohn()
 printSheril()
+printShreya()
