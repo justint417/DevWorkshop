@@ -1,4 +1,10 @@
-1. The concepts that are similar between the two guidelines are that code reviews should be small so that you can iterate more quickly and accurately. Another similarity is that both guidelines say to review your own code for errors and create an actual pull request to see your code like the reviewer will. One difference is that Microsoft emphasizes the importance of tone in a review because of how it can it can foster understanding of what actually is the issue. Another difference is Yelp says to make sure the code is safe to deploy.  
+1.
+Similarities 
+The concepts that are similar between the two guidelines are that code reviews should be small so that you can iterate more quickly and accurately.
+Another similarity is that both guidelines say to review your own code for errors and create an actual pull request to see your code like the reviewer will. 
+Differences
+One difference is that Microsoft emphasizes the importance of tone in a review because of how it can it can foster understanding of what actually is the issue. 
+Another difference is Yelp says to make sure the code is safe to deploy.  
 
 2. 
 3. 
