@@ -7,4 +7,8 @@ One difference is that Microsoft emphasizes the importance of tone in a review b
 Another difference is Yelp says to make sure the code is safe to deploy.  
 
 2. 
+Link to review: https://codereview.stackexchange.com/questions/291360/space-shooter-game-using-pygame
+
+The review explained small improvements that could be made to the code such as the danger of using a global variable, a simpler api to get a path of the file, and importing the function name instead of the file that contains the function so you not have to repeat the file name whenever calling the function. The review was well organized with headers for each section that they reviewed making it easy to navigate to one section of the review. The reviewer wrote in a friendly manner that encourages the coder to make the fixes according to the reviewers suggestions.
+
 3. 
