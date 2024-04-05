@@ -1,3 +1,10 @@
-print("Hello, my name is Geethika Abhilash")
+# Geethika wrote this function bellow
+def printGeethika():
+    print("Hello, my name is Geethika Abhilash")
+
 # Justin wrote the function below
-print("Hello, my name is Justin Turkiewicz")
+def printJustin():    
+    print("Hello, my name is Justin Turkiewicz")
+    
+printGeethika()
+printJustin()
