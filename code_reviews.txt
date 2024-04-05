@@ -15,3 +15,6 @@ organized with headers for each section that they reviewed making it easy to nav
 encourages the coder to make the fixes according to the reviewers suggestions.
 
 3. 
+Link to review: https://codereview.stackexchange.com/questions/291349/sql-query-running-time-can-this-be-optimized
+
+This review is a example of a bad code review because of shorcomings on the code submitters part. According to the Yahoo tips from before, submitter should provide context for the code that they want reviewed. The person who asked for this code to be reviewed simply posted the code and ask for it to be optimized without explaiing its purpose. This adds unnecessary burden to the reviewers and slows down the reviewing process. Reviewers were not able to provide beneficial feedback due to the lack of context. In the future, the submitter should briefly explain code functionality and provide more details about how they want their code improved.
